@@ -263,7 +263,7 @@ namespace ForceFeedback.Rules
         /// This method creates the visual for a code block background and moves it to the correct position.
         /// </summary>
         /// <param name="adornmentBounds">The bounds of the rectangular adornment.</param>
-        /// <param name="longCodeBlockOccurence">The occurence of the code block for which the visual will be created.</param>
+        /// <param name="longCodeBlockOccurence">The occurrence of the code block for which the visual will be created.</param>
         /// <returns>Returns the image that is the visual adornment (code block background).</returns>
         private Image CreateAndPositionCodeBlockBackgroundVisual(Rect adornmentBounds, LongCodeBlockOccurrence longCodeBlockOccurence)
         {
